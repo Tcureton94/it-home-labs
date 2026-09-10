@@ -1,4 +1,4 @@
-### Lab 03 - Active Directory User & Group Management
+#### Lab 03 - Active Directory User & Group Management
 
 ## Objective
 
