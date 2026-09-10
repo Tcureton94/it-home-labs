@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/11db7b39-046f-4319-a95e-b52bc58626d1" />
 # Lab 01 — Active Directory Domain Setup
 
 ## Objective
@@ -41,3 +42,4 @@ whoami
 ## Screenshots
 
 ### Figure 1 — Windows 11 Client Ready for Configuration
+<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/b4aa497d-d765-42d2-9e5e-3a482d45d7b6" />
