@@ -39,8 +39,9 @@ hostname
 ping DC01
 ping CLIENT01
 whoami
-## Screenshots
 
-### Figure 1 — Windows 11 Client Ready for Configuration
-<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/b4aa497d-d765-42d2-9e5e-3a482d45d7b6" />
-![Windows 11 Client Ready for Configuration](./01.%20Windows%2011%20Client%20ready%20for%20config.png)
+
+## Screenshots
+<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/d3350473-3fe1-41bb-a982-997d81303fae" />
+
+
