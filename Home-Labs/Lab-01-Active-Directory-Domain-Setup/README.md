@@ -42,6 +42,6 @@ whoami
 
 
 ## Screenshots
-user-attachments/assets/d3350473-3fe1-41bb-a982-997d81303fae" />
+### Figure 1 — Windows 11 Client Ready for Configuration
 
-
+![Windows 11 Client Ready for Configuration](./01.%20Windows%2011%20Client%20ready%20for%20config.png)
