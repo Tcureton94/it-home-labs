@@ -42,6 +42,5 @@ whoami
 
 
 ## Screenshots
-### Figure 1 — Windows 11 Client Ready for Configuration
 
-![Windows 11 Client Ready for Configuration](./01.%20Windows%2011%20Client%20ready%20for%20config.png)
+<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/0c57b74b-9b0b-4f0a-9bce-b8c84d01c827" />
