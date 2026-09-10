@@ -35,19 +35,19 @@ This confirmed that the GPO was successfully deployed and enforced.
 
 Opened the Group Policy Management Console on DC01 and expanded the `homelab.local` domain.
 
-![Group Policy Management Console](images/lab%2002%201.png)
+<img width="1920" height="1080" alt="lab 02 #1" src="https://github.com/user-attachments/assets/229185a2-a3a6-4166-a8d4-08b5d166d202" />
 
 ### GPO Created
 
 Created a new Group Policy Object named **Disable Control Panel**.
 
-![GPO Created](images/02%20lab%202.png)
+<img width="1920" height="1080" alt="02 lab #2" src="https://github.com/user-attachments/assets/0e89d5e3-459f-4bf3-9e52-e930eedb64f7" />
 
 ### GPO Linked to Domain
 
 Linked the GPO to the `homelab.local` domain so the policy could be applied to domain-joined computers and users.
 
-![GPO Linked to Domain](images/02%20lab%203.png)
+<img width="1920" height="1080" alt="02 lab #3" src="https://github.com/user-attachments/assets/4da1ef67-e840-4c99-b69a-d36f9ec72098" />
 
 ### Group Policy Updated
 
@@ -59,7 +59,7 @@ Ran `gpupdate /force` on the Windows 11 client to immediately apply the updated 
 
 Attempted to open Control Panel and confirmed that access was blocked, verifying that the Group Policy was successfully applied.
 
-![Policy Verification](images/lab%2002%205.png)
+<img width="1920" height="1080" alt="lab 02 #5" src="https://github.com/user-attachments/assets/0f95d9eb-8d61-433c-a2c3-2603759a7a80" />
 
 ## Skills Practiced
 
