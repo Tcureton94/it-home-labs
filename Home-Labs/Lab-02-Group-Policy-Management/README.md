@@ -51,6 +51,9 @@ Linked the GPO to the `homelab.local` domain so the policy could be applied to d
 
 ### Group Policy Updated
 
+<img width="1920" height="1080" alt="lab 02 #4" src="https://github.com/user-attachments/assets/109538d4-f537-4789-ad69-288103743a99" />
+
+
 Ran `gpupdate /force` on the Windows 11 client to immediately apply the updated Group Policy.
 
 ![Group Policy Updated](images/lab%2002%204.png)
