@@ -45,10 +45,10 @@ whoami
 ### Figure 1: Windows 11 Client ready for config.
 <img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/4cffbdda-35a3-495a-a13f-174f37b9b4ef" />
 
-### Figure 2: installing VMware tools (windows 11 client)
+### Figure 2: Installing VMware tools (windows 11 client)
 <img width="1919" height="1070" alt="02  installing VMware tools (windows 11 client)" src="https://github.com/user-attachments/assets/ea055044-7f8f-48ba-85c8-0a7960e61583" />
 
-### Figure 3: renaming windows 11 client to CLIENT01
+### Figure 3: Renaming Windows 11 client to CLIENT01
 <img width="1920" height="1080" alt="03  renaming windows 11 client to CLIENT01" src="https://github.com/user-attachments/assets/3ceda263-c0ee-468e-8f6b-9765e667bde9" />
 
 ### Figure 4: CLIENT01 DNS Configured to use DC01
