@@ -38,3 +38,6 @@ hostname
 ping DC01
 ping CLIENT01
 whoami
+## Screenshots
+
+### Figure 1 — Windows 11 Client Ready for Configuration
