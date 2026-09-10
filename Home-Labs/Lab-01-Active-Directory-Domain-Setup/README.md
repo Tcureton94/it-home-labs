@@ -45,7 +45,7 @@ whoami
 ### Figure 1 Windows 11 Client ready for config.
 <img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/4cffbdda-35a3-495a-a13f-174f37b9b4ef" />
 
-### Figure 2installing VMware tools (windows 11 client)
+### Figure 2 installing VMware tools (windows 11 client)
 <img width="1919" height="1070" alt="02  installing VMware tools (windows 11 client)" src="https://github.com/user-attachments/assets/ea055044-7f8f-48ba-85c8-0a7960e61583" />
 
 ### Figure 3 renaming windows 11 client to CLIENT01
