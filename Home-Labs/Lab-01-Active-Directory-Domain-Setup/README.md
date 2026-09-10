@@ -42,6 +42,6 @@ whoami
 
 
 ## Screenshots
-<img width="1919" height="1079" alt="01  Windows 11 Client ready for config" src="https://github.com/user-attachments/assets/d3350473-3fe1-41bb-a982-997d81303fae" />
+user-attachments/assets/d3350473-3fe1-41bb-a982-997d81303fae" />
 
 
