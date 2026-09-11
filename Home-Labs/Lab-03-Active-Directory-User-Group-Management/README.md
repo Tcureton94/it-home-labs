@@ -1,6 +1,6 @@
 #### Lab 03 - Active Directory User & Group Management
 
-## Objective
+# Objective
 
 Create Organizational Units (OUs), user accounts, and security groups, then assign users to the appropriate groups.
 
