@@ -1,5 +1,5 @@
-Lab 04 - Shared Folder & NTFS Permissions
-## Objective
+## Lab 04 - Shared Folder & NTFS Permissions
+# Objective
 Create a shared folder on Windows Server 2022, configure Share and NTFS permissions, and verify that a domain user can access and modify the shared folder from a Windows 11 client.
 
 ## Environment
