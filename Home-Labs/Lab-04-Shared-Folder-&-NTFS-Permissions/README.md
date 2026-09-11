@@ -26,9 +26,11 @@ Successfully configured and tested a Windows file share using both Share and NTF
 
 <img width="1916" height="1037" alt="04 lab #1" src="https://github.com/user-attachments/assets/f20ef3c9-5417-4e3e-899b-beb4b37e0bca" />
 
+
 2. Domain Users configured with Modify NTFS permissions.
 
 <img width="1904" height="1041" alt="04 lab #2" src="https://github.com/user-attachments/assets/79dd461a-1ba4-40f4-9f57-510fdd889c7d" />
+
 
 3. CLIENT01 successfully accessing \\DC01\CompanyData and creating Lab04-Test.txt.
 
